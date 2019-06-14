@@ -1,4 +1,4 @@
-FROM ants2-x11
+FROM vovasolo/ants2-x11
 
 ARG G4VERSION=10.5.1
 ARG JOBS=1
