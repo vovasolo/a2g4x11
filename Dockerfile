@@ -1,7 +1,7 @@
 FROM ants2-x11
 
 ARG G4VERSION=10.5.1
-ARG JOBS=14
+ARG JOBS=1
 
 # additional libs needed by GEANT
 ENV DEBIAN_FRONTEND=noninteractive
